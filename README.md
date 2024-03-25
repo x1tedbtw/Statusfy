@@ -1,7 +1,5 @@
 # Statusfy
-Statusfy learning/configuring/testing
-
-## Automatic reporting  ✅
+- Automatic reporting  ✅
 
 ## Project Status
 
